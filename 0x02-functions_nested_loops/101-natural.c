@@ -1,7 +1,7 @@
-#iclude "main.h"
+#include "main.h"
 
 /**
- * main - Prits the sum of all multiples of 3 or 5 up to 1024
+ * main - Prints the sum of all multiples of 3 or 5 up to 1024
  * Return: Always (success)
  */
 
@@ -16,5 +16,5 @@ z += 1;
 }
 i++;
 }
-printf("%d\n, z");
+printf("%d\n", z);
 return (0);
